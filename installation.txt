@@ -1,0 +1,12 @@
+create react app
+================
+npx create-react-app alemeno
+
+install
+=======
+npm i react-router-dom
+npm i
+
+install tailwind css for styling 
+==================================
+https://tailwindcss.com/docs/installation
